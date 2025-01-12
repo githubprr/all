@@ -1,6 +1,17 @@
-{
-  "91club Hack": "https://example.com/91club",
-  "In999 Hack": "https://example.com/in999",
-  "55club Hack": "https://example.com/55club",
-  "Okwin Hack": "https://example.com/okwin",
-}
+[
+    {
+        "game": "91club Hack",
+        "registrationLink": "https://www.okwin.fan/#/register?invitationCode=282452739393",
+        "completeLink": "https://www.okwin.fan/#/"
+    },
+    {
+        "game": "In999 Hack",
+        "registrationLink": "https://www.in999-registration.com",
+        "completeLink": "https://yourapp://registration-complete/in999"
+    },
+    {
+        "game": "55club Hack",
+        "registrationLink": "https://www.55club-registration.com",
+        "completeLink": "https://yourapp://registration-complete/55club"
+    }
+]

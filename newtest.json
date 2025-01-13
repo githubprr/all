@@ -1,34 +1,36 @@
-{
-  "sections": [
-    {
-      "title": "Colour Trading Hack's 🇮🇳",
-      "games": [
-        {
-          "title": "91club Hack",
-          "imageUrl": "https://example.com/91club_icon.png",
-          "link": "https://example.com/91club"
-        },
-        {
-          "title": "IN999 Hack",
-          "imageUrl": "https://example.com/in999_icon.png",
-          "link": "https://example.com/in999"
-        }
-      ]
-    },
-    {
-      "title": "Aviator Hack's 🇮🇳",
-      "games": [
-        {
-          "title": "DiuWin Hack",
-          "imageUrl": "https://example.com/diuwin_icon.png",
-          "link": "https://example.com/diuwin"
-        },
-        {
-          "title": "OkWin Hack",
-          "imageUrl": "https://example.com/okwin_icon.png",
-          "link": "https://example.com/okwin"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "title": "Colour Trading Hack's 🇮🇳",
+    "games": [
+      {
+        "name": "91club Hack",
+        "iconUrl": "https://example.com/91club_icon.png",
+        "registrationLink": "https://example.com/91club_register",
+        "completeLink": "https://example.com/91club_complete"
+      },
+      {
+        "name": "In999 Hack",
+        "iconUrl": "https://example.com/in999_icon.png",
+        "registrationLink": "https://example.com/in999_register",
+        "completeLink": "https://example.com/in999_complete"
+      }
+    ]
+  },
+  {
+    "title": "Aviator Hack's 🇮🇳",
+    "games": [
+      {
+        "name": "DiuWin Hack",
+        "iconUrl": "https://example.com/diuwin_icon.png",
+        "registrationLink": "https://example.com/diuwin_register",
+        "completeLink": "https://example.com/diuwin_complete"
+      },
+      {
+        "name": "Okwin Hack",
+        "iconUrl": "https://example.com/okwin_icon.png",
+        "registrationLink": "https://example.com/okwin_register",
+        "completeLink": "https://example.com/okwin_complete"
+      }
+    ]
+  }
+]

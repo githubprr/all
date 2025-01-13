@@ -1,42 +1,22 @@
 [
-  {
-    "section_title": "Popular Hacks",
-    "games": [
       {
         "name": "91club Hack",
-        "image_url": "https://example.com/images/91club.png",
-        "complete_link": "https://example.com/game/91club"
+        "registration_link": "https://www.okwin.fan/#/register?invitationCode=282452739393",
+        "complete_link": "https://www.okwin.fan/#/"
       },
       {
         "name": "In999 Hack",
-        "image_url": "https://example.com/images/in999.png",
-        "complete_link": "https://example.com/game/in999"
-      }
-    ]
-  },
-  {
-    "section_title": "New Hacks",
-    "games": [
-      {
-        "name": "55club Hack",
-        "image_url": "https://example.com/images/55club.png",
-        "complete_link": "https://example.com/game/55club"
+        "registration_link": "https://www.okwin.fan/#/register?invitationCode=282452739393",
+         "complete_link": "https://www.okwin.fan/#/"
+      },
+      {  
+        "name": "91club Hack",
+        "registration_link": "https://www.okwin.fan/#/register?invitationCode=282452739393",
+        "complete_link": "https://www.okwin.fan/#/"
       },
       {
-        "name": "OKwin Hack",
-        "image_url": "https://example.com/images/okwin.png",
-        "complete_link": "https://example.com/game/okwin"
+        "name": "In999 Hack",
+       "registration_link": "https://www.okwin.fan/#/register?invitationCode=282452739393",
+        "complete_link": "https://www.okwin.fan/#/"
       }
-    ]
-  },
-  {
-    "section_title": "Populgujar Hackssss",
-    "games": [
-      {
-        "name": "91club Hack",
-        "image_url": "https://example.com/images/91club.png",
-        "complete_link": "https://example.com/game/91club"
-      }
-    ]
-  }
 ]

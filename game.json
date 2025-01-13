@@ -28,5 +28,14 @@
         "complete_link": "https://example.com/game/okwin"
       }
     ]
-  }
+  },
+  {
+    "section_title": "Populgujar Hackssss",
+    "games": [
+      {
+        "name": "91club Hack",
+        "image_url": "https://example.com/images/91club.png",
+        "complete_link": "https://example.com/game/91club"
+      }
+      }
 ]

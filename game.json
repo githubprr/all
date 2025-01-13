@@ -1,17 +1,20 @@
 [
-    {
-        "game": "91club Hack",
-        "registrationLink": "https://www.okwin.fan/#/register?invitationCode=282452739393",
-        "completeLink": "https://www.okwin.fan/#/"
-    },
-    {
-        "game": "In999 Hack",
-        "registrationLink": "https://sikkim9.com/#/register?invitationCode=73728400111",
-        "completeLink": "https://sikkim9.com/#/"
-    },
-    {
-        "game": "55club Hack",
-        "registrationLink": "https://www.55club-registration.com",
-        "completeLink": "https://yourapp://registration-complete/55club"
-    }
+  {
+    "name": "91club Hack",
+    "image_url": "https://diuwin.co.in/wp-content/uploads/2024/08/Untitled-design-13.png",
+    "registration_link": "https://example.com/register/91club",
+    "complete_link": "https://example.com/game/91club"
+  },
+  {
+    "name": "In999 Hack",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf-BHk5Hpei2tiix7I1LGi2hn6nS02GvDl4A&s",
+    "registration_link": "https://example.com/register/in999",
+    "complete_link": "https://example.com/game/in999"
+  },
+  {
+    "name": "55club Hack",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJzRqE_S6zLDRKxF7FVJMPGv4yftQ53Umug&s",
+    "registration_link": "https://example.com/register/55club",
+    "complete_link": "https://example.com/game/55club"
+  }
 ]

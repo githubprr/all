@@ -1,20 +1,32 @@
 [
   {
-    "name": "91club Hack",
-    "image_url": "https://diuwin.co.in/wp-content/uploads/2024/08/Untitled-design-13.png",
-    "registration_link": "https://example.com/register/91club",
-    "complete_link": "https://example.com/game/91club"
+    "section_title": "Popular Hacks",
+    "games": [
+      {
+        "name": "91club Hack",
+        "image_url": "https://example.com/images/91club.png",
+        "complete_link": "https://example.com/game/91club"
+      },
+      {
+        "name": "In999 Hack",
+        "image_url": "https://example.com/images/in999.png",
+        "complete_link": "https://example.com/game/in999"
+      }
+    ]
   },
   {
-    "name": "In999 Hack",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf-BHk5Hpei2tiix7I1LGi2hn6nS02GvDl4A&s",
-    "registration_link": "https://example.com/register/in999",
-    "complete_link": "https://example.com/game/in999"
-  },
-  {
-    "name": "55club Hack",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJzRqE_S6zLDRKxF7FVJMPGv4yftQ53Umug&s",
-    "registration_link": "https://example.com/register/55club",
-    "complete_link": "https://example.com/game/55club"
+    "section_title": "New Hacks",
+    "games": [
+      {
+        "name": "55club Hack",
+        "image_url": "https://example.com/images/55club.png",
+        "complete_link": "https://example.com/game/55club"
+      },
+      {
+        "name": "OKwin Hack",
+        "image_url": "https://example.com/images/okwin.png",
+        "complete_link": "https://example.com/game/okwin"
+      }
+    ]
   }
 ]

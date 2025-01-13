@@ -1,24 +1,32 @@
-{
-  "sectionTitle": "Colour Trading Hack's 🇮🇳",
-  "games": [
-    {
-      "title": "91club Hack",
-      "imageUrl": "https://example.com/images/91club.png",
-      "registrationLink": "https://example.com/91club/register",
-      "completeLink": "https://example.com/91club/full"
-    },
-    {
-      "title": "In999 Hack",
-      "imageUrl": "https://example.com/images/in999.png",
-      "registrationLink": "https://example.com/in999/register",
-      "completeLink": "https://example.com/in999/full"
-    },
-    {
-      "title": "55club Hack",
-      "imageUrl": "https://example.com/images/55club.png",
-      "registrationLink": "https://example.com/55club/register",
-      "completeLink": "https://example.com/55club/full"
-    }
-    // Add other games as needed
-  ]
-}
+[
+  {
+    "section_title": "Popular Hacks",
+    "games": [
+      {
+        "name": "91club Hack",
+        "image_url": "https://example.com/images/91club.png",
+        "complete_link": "https://example.com/game/91club"
+      },
+      {
+        "name": "In999 Hack",
+        "image_url": "https://example.com/images/in999.png",
+        "complete_link": "https://example.com/game/in999"
+      }
+    ]
+  },
+  {
+    "section_title": "New Hacks",
+    "games": [
+      {
+        "name": "55club Hack",
+        "image_url": "https://example.com/images/55club.png",
+        "complete_link": "https://example.com/game/55club"
+      },
+      {
+        "name": "OKwin Hack",
+        "image_url": "https://example.com/images/okwin.png",
+        "complete_link": "https://example.com/game/okwin"
+      }
+    ]
+  }
+]

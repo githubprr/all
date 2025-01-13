@@ -1,23 +1,24 @@
 {
-  "section_title": "Colour Trading Hack's 🇮🇳",
+  "sectionTitle": "Colour Trading Hack's 🇮🇳",
   "games": [
     {
-      "name": "91 CLUB Hack",
-      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf-BHk5Hpei2tiix7I1LGi2hn6nS02GvDl4A&s",
-      "registration_link": "https://example.com/register/91club",
-      "complete_link": "https://example.com/game/91club"
+      "title": "91club Hack",
+      "imageUrl": "https://example.com/images/91club.png",
+      "registrationLink": "https://example.com/91club/register",
+      "completeLink": "https://example.com/91club/full"
     },
     {
-      "name": "In999 Hack",
-      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJzRqE_S6zLDRKxF7FVJMPGv4yftQ53Umug&s",
-      "registration_link": "https://example.com/register/in999",
-      "complete_link": "https://example.com/game/in999"
+      "title": "In999 Hack",
+      "imageUrl": "https://example.com/images/in999.png",
+      "registrationLink": "https://example.com/in999/register",
+      "completeLink": "https://example.com/in999/full"
     },
     {
-      "name": "55 CLUB Hack",
-      "icon_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf-BHk5Hpei2tiix7I1LGi2hn6nS02GvDl4A&s",
-      "registration_link": "https://example.com/register/55club",
-      "complete_link": "https://example.com/game/55club"
+      "title": "55club Hack",
+      "imageUrl": "https://example.com/images/55club.png",
+      "registrationLink": "https://example.com/55club/register",
+      "completeLink": "https://example.com/55club/full"
     }
+    // Add other games as needed
   ]
 }

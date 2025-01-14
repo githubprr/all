@@ -1,72 +1,34 @@
-[
-  {
-    "title": "Colour Trading Hack's 🇮🇳",
-    "games": [
-      {
-        "name": "Okwin",
-        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
-        "registrationLink": "https://okwinslots5.com/#/register?invitationCode=55677344162",
-        "completeLink": "https://okwinslots5.com/#/"
-      },
-      {
-        "name": "55Club",
-        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/club55.png",
-        "registrationLink": "https://www.in976.com/#/register?invitationCode=735121151450",
-        "completeLink": "https://www.in976.com/#/"
-      },
-      {
-        "name": "Tiranga",
-        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/tiranga.png",
-        "registrationLink": "https://www.tirangagame.top/#/register?invitationCode=21455574718",
-        "completeLink": "https://www.tirangagame.top/#/"
-      },
-      {
-        "name": "Sikkim",
-        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/sikkim.png",
-        "registrationLink": "http://www.sikkim7.com/#/register?invitationCode=58455480495",
-        "completeLink": "http://www.sikkim7.com/#/"
-      },
-      {
-        "name": "DiuWin",
-        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/diuwin.png",
-        "registrationLink": "https://diuwinapp.club/#/register?invitationCode=33517100088",
-        "completeLink": "https://diuwinapp.club/#/"
-      },
-      {
-        "name": "Goa Game",
-        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/goa.png",
-        "registrationLink": "http://www.sikkim7.com/#/register?invitationCode=58455480495",
-        "completeLink": "http://www.sikkim7.com/#/"
-      },
-    ]
-  },
-  {
-    "title": "Aviator Hack's 🇮🇳",
-    "games": [
-      {
-        "name": "DiuWin Hack",
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4XLhlUIyUaQTx3Pc80ryxATg05e_quGXMA&s",
-        "registrationLink": "https://www.okwin.fan/#/register?invitationCode=282452739393",
-        "completeLink": "https://www.okwin.fan/#/"
-      },
-      {
-        "name": "Okwin Hack",
-        "iconUrl": "https://spinninrecords.com/media/cache/og_thumb/uploads/profile/images/c1/b7/70/e0/c1b770e05086442ca1cb8ae000e18721.jpg",
-        "registrationLink": "https://www.okwin.fan/#/register?invitationCode=282452739393",
-        "completeLink": "https://www.okwin.fan/#/"
-      },
-      {
-        "name": "66 Lottery",
-        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/66lottery.png",
-        "registrationLink": "https://www.55wingoc.com/#/register?invitationCode=735121151450",
-        "completeLink": "https://www.55wingoc.com/#/"
-      },
-      {
-        "name": "82 Lottery",
-        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/lottery82.png",
-        "registrationLink": "https://www.82lottery8.in/#/register?invitationCode=317261405680",
-        "completeLink": "https://www.82lottery8.in/#/"
-      }
-    ]
-  }
-]
+{
+  "sections": [
+    {
+      "title": "Colour Trading Hack's 🇮🇳",
+      "games": [
+        {
+          "title": "91club Hack",
+          "imageUrl": "https://example.com/91club_icon.png",
+          "link": "https://example.com/91club"
+        },
+        {
+          "title": "IN999 Hack",
+          "imageUrl": "https://example.com/in999_icon.png",
+          "link": "https://example.com/in999"
+        }
+      ]
+    },
+    {
+      "title": "Aviator Hack's 🇮🇳",
+      "games": [
+        {
+          "title": "DiuWin Hack",
+          "imageUrl": "https://example.com/diuwin_icon.png",
+          "link": "https://example.com/diuwin"
+        },
+        {
+          "title": "OkWin Hack",
+          "imageUrl": "https://example.com/okwin_icon.png",
+          "link": "https://example.com/okwin"
+        }
+      ]
+    }
+  ]
+}

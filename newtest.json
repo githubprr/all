@@ -33,10 +33,28 @@
         "completeLink": "https://diuwinapp.club/#/"
       },
       {
-        "name": "Goa Game",
+        "name": "Goas Game",
         "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/goa.png",
         "registrationLink": "http://www.sikkim7.com/#/register?invitationCode=58455480495",
         "completeLink": "http://www.sikkim7.com/#/"
+      },
+      {
+        "name": "Tirangas",
+        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/tiranga.png",
+        "registrationLink": "https://www.tirangagame.top/#/register?invitationCode=21455574718",
+        "completeLink": "https://www.tirangagame.top/#/"
+      },
+      {
+        "name": "Sikkims",
+        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/sikkim.png",
+        "registrationLink": "http://www.sikkim7.com/#/register?invitationCode=58455480495",
+        "completeLink": "http://www.sikkim7.com/#/"
+      },
+      {
+        "name": "DiuWinz",
+        "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/diuwin.png",
+        "registrationLink": "https://diuwinapp.club/#/register?invitationCode=33517100088",
+        "completeLink": "https://diuwinapp.club/#/"
       }
     ]
   },

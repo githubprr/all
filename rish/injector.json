@@ -1,0 +1,24 @@
+{
+  "games": [
+    {
+      "name": "Okwin Hack",
+      "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
+      "registrationLink": "https://example.com/register/91club"
+    },
+    {
+      "name": "55Club Hack",
+      "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/club55.png",
+      "registrationLink": "https://example.com/register/55club"
+    },
+    {
+      "name": "Tiranga Hack",
+      "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/tiranga.png",
+      "registrationLink": "https://example.com/register/in999"
+    },
+    {
+      "name": "Sikkim Hack",
+      "iconUrl": "https://raw.githubusercontent.com/githubprr/all/main/sikkim.png",
+      "registrationLink": "https://example.com/register/okwin"
+    }
+  ]
+}

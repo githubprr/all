@@ -1,18 +1,22 @@
 [
     {
         "gameName": "91club Hack",
-        "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png"
+        "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
+        "registrationLink": "https://example.com/register/91club"
     },
     {
         "gameName": "55club Hack",
-        "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png"
+        "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
+        "registrationLink": "https://example.com/register/55club"
     },
     {
         "gameName": "In999 Hack",
-        "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png"
+        "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
+        "registrationLink": "https://example.com/register/in999"
     },
     {
         "gameName": "Okwin Hack",
-        "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png"
+        "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
+        "registrationLink": "https://example.com/register/okwin"
     }
 ]

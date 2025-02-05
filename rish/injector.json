@@ -2,21 +2,29 @@
     {
         "gameName": "91club Hack",
         "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
-        "registrationLink": "https://example.com/register/91club"
+        "registrationLink": "https://example.com/register/91club",
+        "joinTelegram": "https://example.com/telegram/91club",
+        "customerCare": "https://example.com/support/91club"
     },
     {
         "gameName": "55club Hack",
         "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
-        "registrationLink": "https://example.com/register/55club"
+        "registrationLink": "https://example.com/register/55club",
+        "joinTelegram": "https://example.com/telegram/55club",
+        "customerCare": "https://example.com/support/55club"
     },
     {
         "gameName": "In999 Hack",
         "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
-        "registrationLink": "https://example.com/register/in999"
+        "registrationLink": "https://example.com/register/in999",
+        "joinTelegram": "https://example.com/telegram/in999",
+        "customerCare": "https://example.com/support/in999"
     },
     {
         "gameName": "Okwin Hack",
         "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/okwin.png",
-        "registrationLink": "https://example.com/register/okwin"
+        "registrationLink": "https://example.com/register/okwin",
+        "joinTelegram": "https://example.com/telegram/okwin",
+        "customerCare": "https://example.com/support/okwin"
     }
 ]

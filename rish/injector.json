@@ -26,12 +26,5 @@
         "registrationLink": "https://example.com/register/okwin",
         "joinTelegram": "https://example.com/telegram/okwin",
         "customerCare": "https://example.com/support/okwin"
-    },
-    {
-        "gameName": "Diuwin Injector",
-        "gameIcon": "https://raw.githubusercontent.com/githubprr/all/main/diuwin.png",
-        "registrationLink": "https://www.diuwinapp.club/#/register?invitationCode=42677100202",
-        "joinTelegram": "https://t.me/vishuskills",
-        "customerCare": "https://t.me/vishuskills"
     }
 ]
